@@ -1,2 +1,2 @@
 # cssBayan
-https://nismailov.github.io/cssBayan/cssBayan/index.html
+https://nismailov.github.io/cssBayan/index.html
